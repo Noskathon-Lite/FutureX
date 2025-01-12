@@ -15,7 +15,7 @@ function SideNav() {
         {
             id: 2, // Ensure unique id for each item
             name: 'Create New',
-            path: '/create-new',
+            path: '/dashboard/create-new',
             icon: FileVideo
         },
         {
